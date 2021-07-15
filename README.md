@@ -47,7 +47,7 @@ public class Program
 # Output 
 Method1
 Mehtod2
-\n As you can see in the above example, delegate expects a return type of small (base class) but we can still assign Method1 that returns Big (derived class) and also Method2 that has same signature as delegate expects.
+As you can see in the above example, delegate expects a return type of small (base class) but we can still assign Method1 that returns Big (derived class) and also Method2 that has same signature as delegate expects.
 
 Thus, covariance allows you to assign a method to the delegate that has a less derived return type
 
