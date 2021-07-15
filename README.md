@@ -1,4 +1,4 @@
-# Covariance and Contravariance C #
+# Covariance and Contravariance C#
 Covariance and Contravariance (C#) By Delegate
 
 Covariance and contravariance allow us to be flexible when dealing with class hierarchy.
